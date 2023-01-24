@@ -1,0 +1,6 @@
+crlt + K + D - Formatar
+crtl+f5 - "Iniciar o programa"
+cw+tab+tab - Escreve console writeline.
+
+crlt + K + crtl + C - Colocar em comentário
+Ctrl + K , Ctrl + U - Para remover comentário: 
